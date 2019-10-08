@@ -1,0 +1,7 @@
+*.txt
+*.bpseq
+*.sta
+*.zip
+*.out
+events.out.*
+*.h5
